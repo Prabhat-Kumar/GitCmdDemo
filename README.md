@@ -24,3 +24,5 @@ git commit -m "First git commit"
 git push origin main
 
 8. Use 'git pull' for getting the latest changes on branch.
+
+9. Use 'git merge' for merging the changes to local.
