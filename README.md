@@ -26,3 +26,11 @@ git push origin main
 8. Use 'git pull' for getting the latest changes on branch.
 
 9. Use 'git merge' for merging the changes to local.
+
+10. 'git show' will show the history of commits
+
+11. 'git rm [file name]' will remove the files form working directory.
+
+12. git diff will show the changes made in git repository,
+
+13. git diff [branch1] [branch2] will show the difference in 2 branches in same repository.
