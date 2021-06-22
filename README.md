@@ -22,3 +22,5 @@ git commit -m "First git commit"
 
 7. Use below command to push your code changes.
 git push origin main
+
+8. Use 'git pull' for getting the latest changes on branch.
