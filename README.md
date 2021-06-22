@@ -19,3 +19,6 @@ git status
 
 6. Use below command to commit with messages
 git commit -m "First git commit"
+
+7. Use below command to push your code changes.
+git push origin main
